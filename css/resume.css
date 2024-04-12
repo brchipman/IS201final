@@ -1,0 +1,86 @@
+.header{
+    background-color:#91c7b4;
+    color:rgba(245, 245, 245, 0.897);
+    height: 100px;
+    line-height:100px;
+    text-align:center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+nav a{
+    float: left;
+    padding:10px 13px;
+    text-decoration: none;
+    color:rgba(245, 245, 245, 0.897);
+    font-size:16px;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+nav{
+    background-color: #91c7b4;
+    padding:10px;
+    overflow:hidden;
+}
+
+.section{
+    font-weight: bold;
+    
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:85%;
+    margin-top: 40px;
+    margin-right:400px;
+}
+
+.mainbody{
+    background-color: rgba(245, 245, 245, 0.897);
+    display: flex;
+    justify-content: center;
+}
+
+.column1{
+    font-size:19px;
+    padding-right:20px;
+    margin-right:300px;
+}
+.column2{
+    max-width: 30%;
+    max-height:25%;
+    float:right;
+
+}
+
+.common{
+    
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.footer{
+    height: 25px;
+    bottom: 0px;
+    position:fixed;
+    left: 5px;
+    right: 5px;
+    padding-top:15px;
+    font-size: 10px;
+    text-align:center;
+    background-color: rgba(245, 245, 245, 0.897);
+}
+body{
+    
+    background-color: rgba(245, 245, 245, 0.897);
+}
+
+h3{
+    font-size: 18px;
+    margin-left:28px;
+    font-weight: lighter;
+}
